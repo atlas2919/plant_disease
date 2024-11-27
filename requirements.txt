@@ -1,0 +1,7 @@
+Flask==3.0.3
+Werkzeug==3.0.3
+numpy==1.26.4
+tensorflow==2.16.2
+Pillow==11.0.0
+requests==2.32.3
+gdown==5.2.0
